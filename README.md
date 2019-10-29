@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-just exploring git
+for exploring git
